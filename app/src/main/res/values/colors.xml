@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    #727272
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgraund">#ffffff</color>
+    <color name="backgraund_new">#f1f1f1</color>
+    <color name="backgraund_full">#cfcfcf</color>
+    <color name="btn_color">#0B68B4</color>
+    <color name="txt1_color">#161616</color>
+    <color name="txt_color_light">#686565</color>
+    <color name="txt_under_line">#1CB0BC</color>
+    <color name="gray">#C0C0C0</color>
+    <color name="under_line">#38B7C2</color>
+    <color name="text_comment">#0B66B1</color>
+    <color name="border_color">#969191</color>
+    <color name="bt_util_border">#EE5741</color>
+    <color name="bt_compition_border">#7AB300</color>
+    <color name="more_text">#F05842</color>
+    <color name="light_text">#a69f9f</color>
+    <color name="calender_text">#0B68B4</color>
+    <color name="orange">#EE5741</color>
+    <color name="previous_month_date">#686565</color>
+    <color name="eventcolor">#51A9BA</color>
+    <color name="month_tile">#1265B4</color>
+    <color name="nav_second_title">#EBB206</color>
+    <color name="highlited_date">#727272</color>
+
+</resources>
